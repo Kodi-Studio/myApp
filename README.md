@@ -1,2 +1,2 @@
 # myApp
-ma premier app react
+ma premier app react native
